@@ -41,3 +41,6 @@ port: 8080
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+sass:
+  style: compressed
