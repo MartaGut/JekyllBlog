@@ -4,4 +4,8 @@
 "sources": ["../_sass/header.scss"],
 "names": [],
 "file": "main.css"
+ "liveSassCompile.settings.includeItems": [
+      "path/subpath/a.scss",
+      "path/subpath/b.scss",
+  ]
 }
